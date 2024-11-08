@@ -790,4 +790,93 @@
 
   ¤ l'heure 
 
+===========================================
+===========================================
+              Partie 3-D
+===========================================
+===========================================
+
+-----------------
+  Exercice 1
+-----------------
+
+  ¤ R 255 , V 255, B 128
+
+-----------------
+  Exercice 2
+-----------------
+
+  ¤ turtle.circle(50)
+
+-----------------
+  Exercice 3
+-----------------
+
+  ¤ 8463 
+
+-----------------
+  Exercice 4
+-----------------
+
+  ¤ vendredi soir
+
+-----------------
+  Exercice 5
+-----------------
+    ¤ Repeter 3 fois 
+        repeter 5 fois 
+          aller nord 
+        repeter 5 fois 
+          aller sud 
+        repeter 4 fois 
+          aller est 
+
+-----------------
+  Exercice 6
+-----------------
+
+  ¤ E4
+
+-----------------
+  Exercice 7
+-----------------
+
+  ¤ Grec (win) 
+
+-----------------
+  Exercice 8
+-----------------
+
+  ¤ 80%
+
+-----------------
+  Exercice 9
+-----------------
+
+  ¤ SELECT COUNT(*) FROM PIECE 
+    NATURAL JOIN SCEANCE 
+    NATURAL JOIN CATEGORIES 
+    NATURAL JOIN TARIFS 
+    WHERE (idCat = 3 or idCat = 4) AND tarif_réduit <15 ;
+
+-----------------
+  Exercice 10
+-----------------
+
+  ¤ simulation impo hors pix ... 
+
+-----------------
+  Exercice 11
+-----------------
+
+  ¤ amis 
+  ¤ reception 
+  ¤ supprimé 
+
+-----------------
+  Exercice 12
+-----------------
+
+  ¤ 290 %
+
 
